@@ -50,7 +50,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002175.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4878/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4878/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4878/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4878/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4878/manifest.json"
             }
@@ -104,7 +104,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002176.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5037/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5037/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5037/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5037/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5037/manifest.json"
             }
@@ -158,7 +158,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002186.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4796/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4796/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4796/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4796/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4796/manifest.json"
             }
@@ -212,7 +212,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002173.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5014/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5014/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5014/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5014/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5014/manifest.json"
             }
@@ -266,7 +266,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002174.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4798/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4798/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4798/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4798/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4798/manifest.json"
             }
@@ -320,7 +320,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002172.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4887/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4887/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4887/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4887/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4887/manifest.json"
             }
@@ -374,7 +374,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002185.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5000/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5000/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5000/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5000/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5000/manifest.json"
             }
@@ -428,7 +428,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002171.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5065/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5065/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5065/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5065/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5065/manifest.json"
             }
@@ -482,7 +482,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002184.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5052/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5052/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5052/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5052/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5052/manifest.json"
             }
@@ -536,7 +536,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "agsmap029690_005.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/33177/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/33177/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/33177/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/33177/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/33177/manifest.json"
             }
@@ -590,7 +590,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002192.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5042/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5042/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5042/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5042/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5042/manifest.json"
             }
@@ -644,7 +644,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002193.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4985/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4985/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4985/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4985/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4985/manifest.json"
             }
@@ -698,7 +698,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002253.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4969/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4969/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4969/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4969/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4969/manifest.json"
             }
@@ -752,7 +752,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002247.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5023/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5023/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5023/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5023/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5023/manifest.json"
             }
@@ -806,7 +806,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "agsmap030160_c2.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/34053/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34053/default.jpg?highlightTerms=agsmap030160*",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34053/default.jpg?highlightTerms=agsmap030160*",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/34053/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/34053/manifest.json"
             }
@@ -860,7 +860,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002183.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4810/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4810/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4810/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4810/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4810/manifest.json"
             }
@@ -914,7 +914,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002191.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4907/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4907/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4907/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4907/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4907/manifest.json"
             }
@@ -968,7 +968,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002246.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4863/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4863/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4863/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4863/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4863/manifest.json"
             }
@@ -1022,7 +1022,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002250.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4855/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4855/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4855/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4855/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4855/manifest.json"
             }
@@ -1076,7 +1076,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002182.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4913/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4913/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4913/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4913/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4913/manifest.json"
             }
@@ -1130,7 +1130,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002189.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/1489/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1489/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1489/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/1489/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/1489/manifest.json"
             }
@@ -1184,7 +1184,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am013138.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/19914/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/19914/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/19914/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/19914/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/19914/manifest.json"
             }
@@ -1238,7 +1238,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002190.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5017/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5017/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5017/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5017/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5017/manifest.json"
             }
@@ -1292,7 +1292,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002180.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5059/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5059/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5059/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5059/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5059/manifest.json"
             }
@@ -1346,7 +1346,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002249.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4903/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4903/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4903/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4903/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4903/manifest.json"
             }
@@ -1400,7 +1400,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002181.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/34608/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34608/default.jpg?highlightTerms=am002181",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34608/default.jpg?highlightTerms=am002181",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/34608/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/34608/manifest.json"
             }
@@ -1454,7 +1454,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002170.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4931/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4931/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4931/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4931/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4931/manifest.json"
             }
@@ -1508,7 +1508,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002169.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5046/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5046/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5046/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5046/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5046/manifest.json"
             }
@@ -1562,7 +1562,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002168.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4842/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4842/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4842/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4842/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4842/manifest.json"
             }
@@ -1616,7 +1616,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002167.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4814/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4814/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4814/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4814/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4814/manifest.json"
             }
@@ -1670,7 +1670,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002245.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4827/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4827/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4827/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4827/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4827/manifest.json"
             }
@@ -1728,7 +1728,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am004643.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/14002/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/14002/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/14002/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/14002/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/14002/manifest.json"
             }
@@ -1782,7 +1782,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002194.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5030/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5030/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5030/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5030/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5030/manifest.json"
             }
@@ -1836,7 +1836,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am005187.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5271/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5271/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5271/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5271/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5271/manifest.json"
             }
@@ -1890,7 +1890,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002195.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5061/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5061/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5061/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5061/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5061/manifest.json"
             }
@@ -1944,7 +1944,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am005185.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5300/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5300/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5300/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5300/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5300/manifest.json"
             }
@@ -1998,7 +1998,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002196.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4957/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4957/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4957/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4957/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4957/manifest.json"
             }
@@ -2052,7 +2052,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002197.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4982/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4982/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4982/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4982/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4982/manifest.json"
             }
@@ -2106,7 +2106,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002200.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/1520/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1520/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1520/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/1520/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/1520/manifest.json"
             }
@@ -2160,7 +2160,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002199.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/1509/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1509/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1509/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/1509/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/1509/manifest.json"
             }
@@ -2214,7 +2214,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002201.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4900/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4900/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4900/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4900/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4900/manifest.json"
             }
@@ -2268,7 +2268,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am005186.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5119/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5119/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5119/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5119/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5119/manifest.json"
             }
@@ -2322,7 +2322,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002202.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4998/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4998/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4998/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4998/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4998/manifest.json"
             }
@@ -2376,7 +2376,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am005184.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5287/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5287/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5287/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5287/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5287/manifest.json"
             }
@@ -2430,7 +2430,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am004637.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/1517/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1517/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1517/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/1517/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/1517/manifest.json"
             }
@@ -2484,7 +2484,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002256.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4966/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4966/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4966/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4966/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4966/manifest.json"
             }
@@ -2538,7 +2538,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002206.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/1508/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1508/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1508/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/1508/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/1508/manifest.json"
             }
@@ -2592,7 +2592,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002207.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4877/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4877/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4877/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4877/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4877/manifest.json"
             }
@@ -2646,7 +2646,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "agsmap029690_004.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/33183/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/33183/default.jpg?highlightTerms=agsmap029690*",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/33183/default.jpg?highlightTerms=agsmap029690*",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/33183/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/33183/manifest.json"
             }
@@ -2700,7 +2700,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am007657.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/32635/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/32635/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/32635/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/32635/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/32635/manifest.json"
             }
@@ -2754,7 +2754,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am004644.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/13971/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/13971/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/13971/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/13971/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/13971/manifest.json"
             }
@@ -2808,7 +2808,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am004634.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/13998/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/13998/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/13998/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/13998/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/13998/manifest.json"
             }
@@ -2862,7 +2862,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002210.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4915/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4915/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4915/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4915/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4915/manifest.json"
             }
@@ -2916,7 +2916,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002209.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5031/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5031/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5031/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5031/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5031/manifest.json"
             }
@@ -2970,7 +2970,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am004635.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/13985/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/13985/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/13985/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/13985/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/13985/manifest.json"
             }
@@ -3024,7 +3024,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002216.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/1513/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1513/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1513/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/1513/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/1513/manifest.json"
             }
@@ -3078,7 +3078,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002213.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/1522/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1522/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1522/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/1522/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/1522/manifest.json"
             }
@@ -3132,7 +3132,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002214.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5010/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5010/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5010/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5010/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5010/manifest.json"
             }
@@ -3186,7 +3186,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002215.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/1523/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1523/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1523/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/1523/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/1523/manifest.json"
             }
@@ -3240,7 +3240,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002164.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5020/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5020/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5020/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5020/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5020/manifest.json"
             }
@@ -3294,7 +3294,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002163.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4911/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4911/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4911/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4911/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4911/manifest.json"
             }
@@ -3348,7 +3348,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002161.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4889/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4889/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4889/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4889/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4889/manifest.json"
             }
@@ -3402,7 +3402,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002162.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4939/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4939/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4939/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4939/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4939/manifest.json"
             }
@@ -3456,7 +3456,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002160.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4904/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4904/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4904/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4904/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4904/manifest.json"
             }
@@ -3510,7 +3510,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002244.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4871/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4871/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4871/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4871/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4871/manifest.json"
             }
@@ -3564,7 +3564,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002159.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4910/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4910/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4910/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4910/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4910/manifest.json"
             }
@@ -3618,7 +3618,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002104.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4883/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4883/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4883/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4883/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4883/manifest.json"
             }
@@ -3672,7 +3672,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "agsmap030150.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/34004/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34004/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34004/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/34004/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/34004/manifest.json"
             }
@@ -3726,7 +3726,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002107.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4906/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4906/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4906/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4906/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4906/manifest.json"
             }
@@ -3780,7 +3780,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am015414.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/18353/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/18353/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/18353/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/18353/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/18353/manifest.json"
             }
@@ -3834,7 +3834,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002108.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4817/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4817/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4817/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4817/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4817/manifest.json"
             }
@@ -3892,7 +3892,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002109.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4812/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4812/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4812/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4812/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4812/manifest.json"
             }
@@ -3946,7 +3946,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002237.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4805/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4805/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4805/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4805/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4805/manifest.json"
             }
@@ -4000,7 +4000,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002106.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4927/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4927/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4927/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4927/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4927/manifest.json"
             }
@@ -4054,7 +4054,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002145.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4935/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4935/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4935/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4935/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4935/manifest.json"
             }
@@ -4108,7 +4108,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002146.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4946/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4946/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4946/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4946/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4946/manifest.json"
             }
@@ -4166,7 +4166,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002136.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4801/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4801/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4801/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4801/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4801/manifest.json"
             }
@@ -4224,7 +4224,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002137.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4948/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4948/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4948/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4948/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4948/manifest.json"
             }
@@ -4282,7 +4282,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002105.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5034/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5034/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5034/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5034/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5034/manifest.json"
             }
@@ -4336,7 +4336,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002102.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4797/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4797/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4797/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4797/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4797/manifest.json"
             }
@@ -4390,7 +4390,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002103.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5025/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5025/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5025/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5025/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5025/manifest.json"
             }
@@ -4444,7 +4444,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002156.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4975/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4975/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4975/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4975/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4975/manifest.json"
             }
@@ -4498,7 +4498,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002158.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4853/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4853/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4853/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4853/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4853/manifest.json"
             }
@@ -4552,7 +4552,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002157.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4879/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4879/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4879/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4879/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4879/manifest.json"
             }
@@ -4606,7 +4606,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "agsmap030429.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/34597/rec/1",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34597/default.jpg?highlightTerms=agsmap030429",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34597/default.jpg?highlightTerms=agsmap030429",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/34597/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/34597/manifest.json"
             }
@@ -4660,7 +4660,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002155.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4934/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4934/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4934/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4934/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4934/manifest.json"
             }
@@ -4714,7 +4714,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002154.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4929/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4929/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4929/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4929/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4929/manifest.json"
             }
@@ -4768,7 +4768,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002166.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5004/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5004/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5004/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5004/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5004/manifest.json"
             }
@@ -4822,7 +4822,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002165.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5015/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5015/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5015/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5015/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5015/manifest.json"
             }
@@ -4876,7 +4876,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002251.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5007/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5007/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5007/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5007/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5007/manifest.json"
             }
@@ -4930,7 +4930,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002179.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4965/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4965/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4965/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4965/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4965/manifest.json"
             }
@@ -4984,7 +4984,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002248.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4994/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4994/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4994/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4994/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4994/manifest.json"
             }
@@ -5038,7 +5038,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002254.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5038/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5038/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5038/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5038/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5038/manifest.json"
             }
@@ -5092,7 +5092,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002198.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4916/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4916/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4916/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4916/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4916/manifest.json"
             }
@@ -5146,7 +5146,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002203.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4882/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4882/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4882/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4882/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4882/manifest.json"
             }
@@ -5204,7 +5204,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002208.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4891/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4891/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4891/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4891/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4891/manifest.json"
             }
@@ -5258,7 +5258,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002211.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4912/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4912/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4912/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4912/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4912/manifest.json"
             }
@@ -5312,7 +5312,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002217.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4942/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4942/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4942/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4942/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4942/manifest.json"
             }
@@ -5366,7 +5366,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002218.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/1512/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1512/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1512/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/1512/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/1512/manifest.json"
             }
@@ -5420,7 +5420,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002222.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4861/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4861/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4861/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4861/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4861/manifest.json"
             }
@@ -5474,7 +5474,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002223.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4840/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4840/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4840/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4840/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4840/manifest.json"
             }
@@ -5532,7 +5532,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002227.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4976/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4976/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4976/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4976/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4976/manifest.json"
             }
@@ -5590,7 +5590,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002226.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4937/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4937/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4937/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4937/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4937/manifest.json"
             }
@@ -5644,7 +5644,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "agsmap030151.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/34003/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34003/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34003/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/34003/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/34003/manifest.json"
             }
@@ -5698,7 +5698,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002238.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5012/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5012/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5012/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5012/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5012/manifest.json"
             }
@@ -5752,7 +5752,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "agsmap030152.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/34016/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34016/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34016/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/34016/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/34016/manifest.json"
             }
@@ -5806,7 +5806,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002110.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4844/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4844/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4844/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4844/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4844/manifest.json"
             }
@@ -5860,7 +5860,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002239.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4813/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4813/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4813/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4813/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4813/manifest.json"
             }
@@ -5914,7 +5914,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002224.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/1528/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1528/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1528/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/1528/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/1528/manifest.json"
             }
@@ -5968,7 +5968,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002219.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4990/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4990/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4990/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4990/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4990/manifest.json"
             }
@@ -6026,7 +6026,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002228.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4923/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4923/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4923/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4923/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4923/manifest.json"
             }
@@ -6084,7 +6084,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002229.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5033/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5033/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5033/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5033/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5033/manifest.json"
             }
@@ -6138,7 +6138,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "agsmap029690_007.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/33182/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/33182/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/33182/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/33182/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/33182/manifest.json"
             }
@@ -6192,7 +6192,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002241.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25669/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/25669/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/25669/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/25669/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/25669/manifest.json"
             }
@@ -6246,7 +6246,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002130.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4964/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4964/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4964/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4964/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4964/manifest.json"
             }
@@ -6300,7 +6300,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002129.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4996/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4996/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4996/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4996/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4996/manifest.json"
             }
@@ -6354,7 +6354,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "agsmap030135.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/33886/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/33886/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/33886/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/33886/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/33886/manifest.json"
             }
@@ -6408,7 +6408,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "agsmap030134.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/33897/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/33897/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/33897/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/33897/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/33897/manifest.json"
             }
@@ -6462,7 +6462,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002128.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4919/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4919/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4919/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4919/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4919/manifest.json"
             }
@@ -6516,7 +6516,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002147.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4881/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4881/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4881/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4881/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4881/manifest.json"
             }
@@ -6570,7 +6570,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002148.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5068/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5068/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5068/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5068/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5068/manifest.json"
             }
@@ -6624,7 +6624,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002152.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5044/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5044/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5044/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5044/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5044/manifest.json"
             }
@@ -6678,7 +6678,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002153.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4839/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4839/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4839/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4839/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4839/manifest.json"
             }
@@ -6740,7 +6740,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002204.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/1497/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1497/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1497/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/1497/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/1497/manifest.json"
             }
@@ -6794,7 +6794,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002205.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4849/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4849/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4849/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4849/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4849/manifest.json"
             }
@@ -6852,7 +6852,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002114.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4835/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4835/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4835/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4835/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4835/manifest.json"
             }
@@ -6910,7 +6910,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am005263.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/34595/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34595/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34595/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/34595/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/34595/manifest.json"
             }
@@ -6968,7 +6968,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002560.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/34599/rec/1",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34599/default.jpg?highlightTerms=am002560",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34599/default.jpg?highlightTerms=am002560",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/34599/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/34599/manifest.json"
             }
@@ -7026,7 +7026,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am005711.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5400/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5400/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5400/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5400/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5400/manifest.json"
             }
@@ -7080,7 +7080,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002150.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4830/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4830/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4830/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4830/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4830/manifest.json"
             }
@@ -7134,7 +7134,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002151.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4811/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4811/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4811/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4811/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4811/manifest.json"
             }
@@ -7188,7 +7188,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002113.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4950/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4950/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4950/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4950/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4950/manifest.json"
             }
@@ -7242,7 +7242,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "agsmap030153.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/34012/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34012/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34012/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/34012/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/34012/manifest.json"
             }
@@ -7296,7 +7296,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "agsmap030153_c2.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/34013/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34013/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34013/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/34013/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/34013/manifest.json"
             }
@@ -7350,7 +7350,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002240.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5016/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5016/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5016/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5016/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5016/manifest.json"
             }
@@ -7412,7 +7412,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am005276.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/search/searchterm/am005276",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5438/default.jpg?highlightTerms=am005276",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5438/default.jpg?highlightTerms=am005276",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/searchterm/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/searchterm/manifest.json"
             }
@@ -7474,7 +7474,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am005712.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5238/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5238/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5238/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5238/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5238/manifest.json"
             }
@@ -7528,7 +7528,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "agsmap030155.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/34006/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34006/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34006/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/34006/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/34006/manifest.json"
             }
@@ -7582,7 +7582,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002118.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4795/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4795/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4795/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4795/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4795/manifest.json"
             }
@@ -7636,7 +7636,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002119.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4799/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4799/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4799/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4799/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4799/manifest.json"
             }
@@ -7690,7 +7690,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002116.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4834/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4834/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4834/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4834/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4834/manifest.json"
             }
@@ -7744,7 +7744,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "agsmap030154.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/34020/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34020/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34020/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/34020/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/34020/manifest.json"
             }
@@ -7798,7 +7798,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002115.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5057/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5057/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5057/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5057/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5057/manifest.json"
             }
@@ -7852,7 +7852,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002117.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4989/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4989/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4989/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4989/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4989/manifest.json"
             }
@@ -7910,7 +7910,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002120.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5045/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5045/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5045/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5045/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5045/manifest.json"
             }
@@ -7968,7 +7968,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002242.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5028/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5028/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5028/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5028/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5028/manifest.json"
             }
@@ -8022,7 +8022,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002127.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4959/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4959/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4959/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4959/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4959/manifest.json"
             }
@@ -8076,7 +8076,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002131.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4826/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4826/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4826/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4826/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4826/manifest.json"
             }
@@ -8130,7 +8130,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002132.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4824/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4824/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4824/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4824/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4824/manifest.json"
             }
@@ -8184,7 +8184,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002133.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4838/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4838/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4838/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4838/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4838/manifest.json"
             }
@@ -8238,7 +8238,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "agsmap030157.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/34022/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34022/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34022/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/34022/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/34022/manifest.json"
             }
@@ -8292,7 +8292,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002135.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4962/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4962/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4962/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4962/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4962/manifest.json"
             }
@@ -8346,7 +8346,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002134.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4836/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4836/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4836/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4836/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4836/manifest.json"
             }
@@ -8400,7 +8400,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002243.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4918/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4918/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4918/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4918/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4918/manifest.json"
             }
@@ -8454,7 +8454,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "agsmap030158.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/34015/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34015/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34015/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/34015/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/34015/manifest.json"
             }
@@ -8508,7 +8508,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002140.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4938/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4938/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4938/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4938/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4938/manifest.json"
             }
@@ -8562,7 +8562,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002141.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5035/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5035/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5035/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5035/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5035/manifest.json"
             }
@@ -8616,7 +8616,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002143.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4955/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4955/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4955/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4955/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4955/manifest.json"
             }
@@ -8670,7 +8670,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "agsmap029690_006.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/33172/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/33172/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/33172/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/33172/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/33172/manifest.json"
             }
@@ -8724,7 +8724,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002142.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4952/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4952/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4952/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4952/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4952/manifest.json"
             }
@@ -8778,7 +8778,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am011559.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/34598/rec/1",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34598/default.jpg?highlightTerms=am011559",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34598/default.jpg?highlightTerms=am011559",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/34598/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/34598/manifest.json"
             }
@@ -8832,7 +8832,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002149.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4833/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4833/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4833/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4833/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4833/manifest.json"
             }
@@ -8886,7 +8886,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "agsmap030159.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/34017/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34017/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34017/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/34017/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/34017/manifest.json"
             }
@@ -8940,7 +8940,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002144.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4848/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4848/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4848/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4848/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4848/manifest.json"
             }
@@ -9036,7 +9036,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002177.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4967/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4967/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4967/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4967/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4967/manifest.json"
             }
@@ -9132,7 +9132,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002178.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4809/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4809/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4809/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4809/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4809/manifest.json"
             }
@@ -9186,7 +9186,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002187.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4873/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4873/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4873/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4873/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4873/manifest.json"
             }
@@ -9244,7 +9244,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002252.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5041/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5041/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5041/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5041/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5041/manifest.json"
             }
@@ -9302,7 +9302,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002188.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/1511/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1511/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1511/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/1511/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/1511/manifest.json"
             }
@@ -9360,7 +9360,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am013143.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/19912/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/19912/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/19912/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/19912/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/19912/manifest.json"
             }
@@ -9418,7 +9418,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "agsmap030133.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/33898/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/33898/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/33898/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/33898/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/33898/manifest.json"
             }
@@ -9476,7 +9476,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am004647.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5430/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5430/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5430/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5430/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5430/manifest.json"
             }
@@ -9534,7 +9534,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am013142.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/19919/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/19919/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/19919/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/19919/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/19919/manifest.json"
             }
@@ -9592,7 +9592,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am013143.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/19912/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/19912/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/19912/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/19912/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/19912/manifest.json"
             }
@@ -9654,7 +9654,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002230.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4945/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4945/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4945/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4945/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4945/manifest.json"
             }
@@ -9716,7 +9716,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am007678.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/32637/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/32637/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/32637/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/32637/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/32637/manifest.json"
             }
@@ -9778,7 +9778,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002231.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/1503/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1503/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1503/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/1503/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/1503/manifest.json"
             }
@@ -9840,7 +9840,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "agsmap029690_003.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/33181/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/33181/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/33181/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/33181/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/33181/manifest.json"
             }
@@ -9902,7 +9902,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002232.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4893/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4893/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4893/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4893/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4893/manifest.json"
             }
@@ -10014,7 +10014,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002236.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4802/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4802/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4802/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4802/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4802/manifest.json"
             }
@@ -10126,7 +10126,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am011555.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/34596/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34596/default.jpg?highlightTerms=am011555",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34596/default.jpg?highlightTerms=am011555",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/34596/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/34596/manifest.json"
             }
@@ -10238,7 +10238,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002257.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4847/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4847/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4847/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4847/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4847/manifest.json"
             }
@@ -10410,7 +10410,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002212.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/1521/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1521/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1521/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/1521/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/1521/manifest.json"
             }
@@ -10490,7 +10490,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002100.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4991/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4991/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4991/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4991/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4991/manifest.json"
             }
@@ -10570,7 +10570,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002101.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5009/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5009/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5009/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5009/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5009/manifest.json"
             }
@@ -10650,7 +10650,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "agsmap030136.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/33889/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/33889/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/33889/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/33889/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/33889/manifest.json"
             }
@@ -10730,7 +10730,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am011558.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/34594/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34594/default.jpg?highlightTerms=am011558",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34594/default.jpg?highlightTerms=am011558",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/34594/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/34594/manifest.json"
             }
@@ -10810,7 +10810,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002111.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4899/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4899/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4899/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4899/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4899/manifest.json"
             }
@@ -10890,7 +10890,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002112.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4908/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4908/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4908/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4908/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4908/manifest.json"
             }
@@ -10944,7 +10944,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002221.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5003/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5003/",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5003/",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5003/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5003/manifest.json"
             }
@@ -10998,7 +10998,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002220.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4997/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4997/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4997/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4997/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4997/manifest.json"
             }
@@ -11052,7 +11052,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002225.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/1527/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1527/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1527/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/1527/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/1527/manifest.json"
             }
@@ -11106,7 +11106,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002259.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5029/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5029/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5029/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5029/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5029/manifest.json"
             }
@@ -11160,7 +11160,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002255.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5043/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5043/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5043/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5043/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5043/manifest.json"
             }
@@ -11214,7 +11214,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "agsmap029690_002.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/33175/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/33175/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/33175/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/33175/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/33175/manifest.json"
             }
@@ -11268,7 +11268,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002233.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/1505/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1505/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1505/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/1505/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/1505/manifest.json"
             }
@@ -11322,7 +11322,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002234.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4922/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4922/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4922/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4922/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4922/manifest.json"
             }
@@ -11376,7 +11376,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002126.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5006/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5006/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5006/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5006/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5006/manifest.json"
             }
@@ -11430,7 +11430,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002125.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/5024/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5024/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/5024/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/5024/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/5024/manifest.json"
             }
@@ -11484,7 +11484,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002124.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4892/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4892/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4892/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4892/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4892/manifest.json"
             }
@@ -11538,7 +11538,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002139.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4972/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4972/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4972/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4972/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4972/manifest.json"
             }
@@ -11592,7 +11592,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002138.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4857/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4857/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4857/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4857/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4857/manifest.json"
             }
@@ -11646,7 +11646,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "agsmap030156.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/34019/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34019/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/34019/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/34019/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/34019/manifest.json"
             }
@@ -11700,7 +11700,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002121.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4926/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4926/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4926/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4926/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4926/manifest.json"
             }
@@ -11754,7 +11754,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002122.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4924/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4924/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4924/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4924/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4924/manifest.json"
             }
@@ -11808,7 +11808,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002123.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/4828/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4828/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4828/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/4828/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/4828/manifest.json"
             }
@@ -11920,7 +11920,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "am002235.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/1504/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1504/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/1504/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/1504/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/1504/manifest.json"
             }
@@ -12032,7 +12032,7 @@
                 "instCallNo": "050-b A-1:1,000,000",
                 "fileName": "agsmap029690_001.tif",
                 "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/33173/",
-                "thumbURL": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/33173/default.jpg",
+                "thumbUrl": "https://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/33173/default.jpg",
                 "download": "https://collections.lib.uwm.edu/digital/download/collection/agdm/id/33173/size/full",
                 "iiifUrl": "https://collections.lib.uwm.edu/iiif/info/agdm/33173/manifest.json"
             }
