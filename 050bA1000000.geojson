@@ -32,7 +32,7 @@
             },
             "properties": {
                 "label": "SB 24",
-                "available": "true",
+                "available": true,
                 "west": -42,
                 "east": -36,
                 "north": -4,
@@ -86,7 +86,7 @@
             },
             "properties": {
                 "label": "SB 24",
-                "available": "true",
+                "available": true,
                 "west": -42,
                 "east": -36,
                 "north": -4,
@@ -140,7 +140,7 @@
             },
             "properties": {
                 "label": "SC 23",
-                "available": "true",
+                "available": true,
                 "west": -48,
                 "east": -42,
                 "north": -8,
@@ -194,7 +194,7 @@
             },
             "properties": {
                 "label": "SB 23",
-                "available": "true",
+                "available": true,
                 "west": -48,
                 "east": -42,
                 "north": -4,
@@ -248,7 +248,7 @@
             },
             "properties": {
                 "label": "SB 23",
-                "available": "true",
+                "available": true,
                 "west": -48,
                 "east": -42,
                 "north": -4,
@@ -302,7 +302,7 @@
             },
             "properties": {
                 "label": "SB 22",
-                "available": "true",
+                "available": true,
                 "west": -54,
                 "east": -48,
                 "north": -4,
@@ -356,7 +356,7 @@
             },
             "properties": {
                 "label": "SC 22",
-                "available": "true",
+                "available": true,
                 "west": -54,
                 "east": -48,
                 "north": -8,
@@ -410,7 +410,7 @@
             },
             "properties": {
                 "label": "SB 21",
-                "available": "true",
+                "available": true,
                 "west": -60,
                 "east": -54,
                 "north": -4,
@@ -464,7 +464,7 @@
             },
             "properties": {
                 "label": "SC 21",
-                "available": "true",
+                "available": true,
                 "west": -60,
                 "east": -54,
                 "north": -8,
@@ -518,7 +518,7 @@
             },
             "properties": {
                 "label": "SD 21",
-                "available": "true",
+                "available": true,
                 "west": -60,
                 "east": -54,
                 "north": -12,
@@ -572,7 +572,7 @@
             },
             "properties": {
                 "label": "SD 21",
-                "available": "true",
+                "available": true,
                 "west": -60,
                 "east": -54,
                 "north": -12,
@@ -626,7 +626,7 @@
             },
             "properties": {
                 "label": "SD 22",
-                "available": "true",
+                "available": true,
                 "west": -54,
                 "east": -48,
                 "north": -12,
@@ -680,7 +680,7 @@
             },
             "properties": {
                 "label": "SD 23",
-                "available": "true",
+                "available": true,
                 "west": -48,
                 "east": -42,
                 "north": -12,
@@ -734,7 +734,7 @@
             },
             "properties": {
                 "label": "SB 20",
-                "available": "true",
+                "available": true,
                 "west": -66,
                 "east": -60,
                 "north": -4,
@@ -788,7 +788,7 @@
             },
             "properties": {
                 "label": "SB 20",
-                "available": "true",
+                "available": true,
                 "west": -66,
                 "east": -60,
                 "north": -4,
@@ -842,7 +842,7 @@
             },
             "properties": {
                 "label": "SC 20",
-                "available": "true",
+                "available": true,
                 "west": -66,
                 "east": -60,
                 "north": -8,
@@ -896,7 +896,7 @@
             },
             "properties": {
                 "label": "SD 20",
-                "available": "true",
+                "available": true,
                 "west": -66,
                 "east": -60,
                 "north": -12,
@@ -950,7 +950,7 @@
             },
             "properties": {
                 "label": "SB 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -66,
                 "north": -4,
@@ -1004,7 +1004,7 @@
             },
             "properties": {
                 "label": "SC 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -66,
                 "north": -8,
@@ -1058,7 +1058,7 @@
             },
             "properties": {
                 "label": "SC 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -66,
                 "north": -8,
@@ -1112,7 +1112,7 @@
             },
             "properties": {
                 "label": "SD 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -66,
                 "north": -12,
@@ -1166,7 +1166,7 @@
             },
             "properties": {
                 "label": "SD 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -66,
                 "north": -12,
@@ -1220,7 +1220,7 @@
             },
             "properties": {
                 "label": "SD 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -66,
                 "north": -12,
@@ -1274,7 +1274,7 @@
             },
             "properties": {
                 "label": "SC 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": -8,
@@ -1328,7 +1328,7 @@
             },
             "properties": {
                 "label": "SC 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": -8,
@@ -1382,7 +1382,7 @@
             },
             "properties": {
                 "label": "SC 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": -8,
@@ -1436,7 +1436,7 @@
             },
             "properties": {
                 "label": "SB 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": -4,
@@ -1490,7 +1490,7 @@
             },
             "properties": {
                 "label": "SB 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": -4,
@@ -1544,7 +1544,7 @@
             },
             "properties": {
                 "label": "SB 17",
-                "available": "true",
+                "available": true,
                 "west": -84,
                 "east": -78,
                 "north": -4,
@@ -1598,7 +1598,7 @@
             },
             "properties": {
                 "label": "SB 17",
-                "available": "true",
+                "available": true,
                 "west": -84,
                 "east": -78,
                 "north": -4,
@@ -1652,7 +1652,7 @@
             },
             "properties": {
                 "label": "SB 17",
-                "available": "true",
+                "available": true,
                 "west": -84,
                 "east": -78,
                 "north": -4,
@@ -1710,7 +1710,7 @@
             },
             "properties": {
                 "label": "SE 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -66,
                 "north": -16,
@@ -1764,7 +1764,7 @@
             },
             "properties": {
                 "label": "SE 20",
-                "available": "true",
+                "available": true,
                 "west": -66,
                 "east": -60,
                 "north": -16,
@@ -1818,7 +1818,7 @@
             },
             "properties": {
                 "label": "SE 20",
-                "available": "true",
+                "available": true,
                 "west": -66,
                 "east": -60,
                 "north": -16,
@@ -1872,7 +1872,7 @@
             },
             "properties": {
                 "label": "SE 21",
-                "available": "true",
+                "available": true,
                 "west": -60,
                 "east": -54,
                 "north": -16,
@@ -1926,7 +1926,7 @@
             },
             "properties": {
                 "label": "SE 21",
-                "available": "true",
+                "available": true,
                 "west": -60,
                 "east": -54,
                 "north": -16,
@@ -1980,7 +1980,7 @@
             },
             "properties": {
                 "label": "SE 22",
-                "available": "true",
+                "available": true,
                 "west": -54,
                 "east": -48,
                 "north": -16,
@@ -2034,7 +2034,7 @@
             },
             "properties": {
                 "label": "SE 23",
-                "available": "true",
+                "available": true,
                 "west": -48,
                 "east": -42,
                 "north": -16,
@@ -2088,7 +2088,7 @@
             },
             "properties": {
                 "label": "SF 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -66,
                 "north": -20,
@@ -2142,7 +2142,7 @@
             },
             "properties": {
                 "label": "SF 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -66,
                 "north": -20,
@@ -2196,7 +2196,7 @@
             },
             "properties": {
                 "label": "SF 20",
-                "available": "true",
+                "available": true,
                 "west": -66,
                 "east": -60,
                 "north": -20,
@@ -2250,7 +2250,7 @@
             },
             "properties": {
                 "label": "SF 20",
-                "available": "true",
+                "available": true,
                 "west": -66,
                 "east": -60,
                 "north": -20,
@@ -2304,7 +2304,7 @@
             },
             "properties": {
                 "label": "SF 21",
-                "available": "true",
+                "available": true,
                 "west": -60,
                 "east": -54,
                 "north": -20,
@@ -2358,7 +2358,7 @@
             },
             "properties": {
                 "label": "SF 21",
-                "available": "true",
+                "available": true,
                 "west": -60,
                 "east": -54,
                 "north": -20,
@@ -2412,7 +2412,7 @@
             },
             "properties": {
                 "label": "SG 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -66,
                 "north": -24,
@@ -2466,7 +2466,7 @@
             },
             "properties": {
                 "label": "SG 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -66,
                 "north": -24,
@@ -2520,7 +2520,7 @@
             },
             "properties": {
                 "label": "SG 20",
-                "available": "true",
+                "available": true,
                 "west": -66,
                 "east": -60,
                 "north": -24,
@@ -2574,7 +2574,7 @@
             },
             "properties": {
                 "label": "SG 21",
-                "available": "true",
+                "available": true,
                 "west": -60,
                 "east": -54,
                 "north": -24,
@@ -2628,7 +2628,7 @@
             },
             "properties": {
                 "label": "SH 21",
-                "available": "true",
+                "available": true,
                 "west": -60,
                 "east": -54,
                 "north": -28,
@@ -2682,7 +2682,7 @@
             },
             "properties": {
                 "label": "SH 21",
-                "available": "true",
+                "available": true,
                 "west": -60,
                 "east": -54,
                 "north": -28,
@@ -2736,7 +2736,7 @@
             },
             "properties": {
                 "label": "SH 21",
-                "available": "true",
+                "available": true,
                 "west": -60,
                 "east": -54,
                 "north": -28,
@@ -2790,7 +2790,7 @@
             },
             "properties": {
                 "label": "SH 21",
-                "available": "true",
+                "available": true,
                 "west": -60,
                 "east": -54,
                 "north": -28,
@@ -2844,7 +2844,7 @@
             },
             "properties": {
                 "label": "SH 20",
-                "available": "true",
+                "available": true,
                 "west": -66,
                 "east": -60,
                 "north": -28,
@@ -2898,7 +2898,7 @@
             },
             "properties": {
                 "label": "SH 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -66,
                 "north": -28,
@@ -2952,7 +2952,7 @@
             },
             "properties": {
                 "label": "SH 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -66,
                 "north": -28,
@@ -3006,7 +3006,7 @@
             },
             "properties": {
                 "label": "SI 20",
-                "available": "true",
+                "available": true,
                 "west": -66,
                 "east": -60,
                 "north": -32,
@@ -3060,7 +3060,7 @@
             },
             "properties": {
                 "label": "SI 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -66,
                 "north": -32,
@@ -3114,7 +3114,7 @@
             },
             "properties": {
                 "label": "SI 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -66,
                 "north": -32,
@@ -3168,7 +3168,7 @@
             },
             "properties": {
                 "label": "SI 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -66,
                 "north": -32,
@@ -3222,7 +3222,7 @@
             },
             "properties": {
                 "label": "SA 23",
-                "available": "true",
+                "available": true,
                 "west": -48,
                 "east": -42,
                 "north": 9.99822e-11,
@@ -3276,7 +3276,7 @@
             },
             "properties": {
                 "label": "SA 23",
-                "available": "true",
+                "available": true,
                 "west": -48,
                 "east": -42,
                 "north": 9.99822e-11,
@@ -3330,7 +3330,7 @@
             },
             "properties": {
                 "label": "SA 22",
-                "available": "true",
+                "available": true,
                 "west": -54,
                 "east": -48,
                 "north": 9.99822e-11,
@@ -3384,7 +3384,7 @@
             },
             "properties": {
                 "label": "SA 22",
-                "available": "true",
+                "available": true,
                 "west": -54,
                 "east": -48,
                 "north": 9.99822e-11,
@@ -3438,7 +3438,7 @@
             },
             "properties": {
                 "label": "SA 21",
-                "available": "true",
+                "available": true,
                 "west": -60,
                 "east": -54,
                 "north": 9.99822e-11,
@@ -3492,7 +3492,7 @@
             },
             "properties": {
                 "label": "SA 20",
-                "available": "true",
+                "available": true,
                 "west": -66,
                 "east": -60,
                 "north": 9.99822e-11,
@@ -3546,7 +3546,7 @@
             },
             "properties": {
                 "label": "SA 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -66,
                 "north": 9.99822e-11,
@@ -3600,7 +3600,7 @@
             },
             "properties": {
                 "label": "NA 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -66,
                 "north": 4,
@@ -3654,7 +3654,7 @@
             },
             "properties": {
                 "label": "NA 20",
-                "available": "true",
+                "available": true,
                 "west": -66,
                 "east": -60,
                 "north": 4,
@@ -3708,7 +3708,7 @@
             },
             "properties": {
                 "label": "NB 20",
-                "available": "true",
+                "available": true,
                 "west": -66,
                 "east": -60,
                 "north": 8,
@@ -3762,7 +3762,7 @@
             },
             "properties": {
                 "label": "NB 20",
-                "available": "true",
+                "available": true,
                 "west": -66,
                 "east": -60,
                 "north": 8,
@@ -3816,7 +3816,7 @@
             },
             "properties": {
                 "label": "NB 20",
-                "available": "true",
+                "available": true,
                 "west": -66,
                 "east": -60,
                 "north": 8,
@@ -3874,7 +3874,7 @@
             },
             "properties": {
                 "label": "NB 21",
-                "available": "true",
+                "available": true,
                 "west": -60,
                 "east": -54,
                 "north": 8,
@@ -3928,7 +3928,7 @@
             },
             "properties": {
                 "label": "NA 21",
-                "available": "true",
+                "available": true,
                 "west": -60,
                 "east": -54,
                 "north": 4,
@@ -3982,7 +3982,7 @@
             },
             "properties": {
                 "label": "NB 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -66,
                 "north": 8,
@@ -4036,7 +4036,7 @@
             },
             "properties": {
                 "label": "NG 13",
-                "available": "true",
+                "available": true,
                 "west": -108,
                 "east": -102,
                 "north": 28,
@@ -4090,7 +4090,7 @@
             },
             "properties": {
                 "label": "NG 13",
-                "available": "true",
+                "available": true,
                 "west": -108,
                 "east": -102,
                 "north": 28,
@@ -4148,7 +4148,7 @@
             },
             "properties": {
                 "label": "NF 13",
-                "available": "true",
+                "available": true,
                 "west": -108,
                 "east": -102,
                 "north": 24,
@@ -4206,7 +4206,7 @@
             },
             "properties": {
                 "label": "NF 13",
-                "available": "true",
+                "available": true,
                 "west": -108,
                 "east": -102,
                 "north": 24,
@@ -4264,7 +4264,7 @@
             },
             "properties": {
                 "label": "NB 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": 8,
@@ -4318,7 +4318,7 @@
             },
             "properties": {
                 "label": "NA 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": 4,
@@ -4372,7 +4372,7 @@
             },
             "properties": {
                 "label": "NA 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": 4,
@@ -4426,7 +4426,7 @@
             },
             "properties": {
                 "label": "SA 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": 9.99822e-11,
@@ -4480,7 +4480,7 @@
             },
             "properties": {
                 "label": "SA 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": 9.99822e-11,
@@ -4534,7 +4534,7 @@
             },
             "properties": {
                 "label": "SA 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": 9.99822e-11,
@@ -4588,7 +4588,7 @@
             },
             "properties": {
                 "label": "SA 17",
-                "available": "true",
+                "available": true,
                 "west": -84,
                 "east": -78,
                 "north": 9.99822e-11,
@@ -4642,7 +4642,7 @@
             },
             "properties": {
                 "label": "SA 17",
-                "available": "true",
+                "available": true,
                 "west": -84,
                 "east": -78,
                 "north": 9.99822e-11,
@@ -4696,7 +4696,7 @@
             },
             "properties": {
                 "label": "SA 17",
-                "available": "true",
+                "available": true,
                 "west": -84,
                 "east": -78,
                 "north": 9.99822e-11,
@@ -4750,7 +4750,7 @@
             },
             "properties": {
                 "label": "SA 24",
-                "available": "true",
+                "available": true,
                 "west": -42,
                 "east": -36,
                 "north": 9.99822e-11,
@@ -4804,7 +4804,7 @@
             },
             "properties": {
                 "label": "SA 24",
-                "available": "true",
+                "available": true,
                 "west": -42,
                 "east": -36,
                 "north": 9.99822e-11,
@@ -4858,7 +4858,7 @@
             },
             "properties": {
                 "label": "SC 24",
-                "available": "true",
+                "available": true,
                 "west": -42,
                 "east": -36,
                 "north": -8,
@@ -4912,7 +4912,7 @@
             },
             "properties": {
                 "label": "SC 17",
-                "available": "true",
+                "available": true,
                 "west": -84,
                 "east": -78,
                 "north": -8,
@@ -4966,7 +4966,7 @@
             },
             "properties": {
                 "label": "SC 17",
-                "available": "true",
+                "available": true,
                 "west": -84,
                 "east": -78,
                 "north": -8,
@@ -5020,7 +5020,7 @@
             },
             "properties": {
                 "label": "SD 24",
-                "available": "true",
+                "available": true,
                 "west": -42,
                 "east": -36,
                 "north": -12,
@@ -5074,7 +5074,7 @@
             },
             "properties": {
                 "label": "SE 24",
-                "available": "true",
+                "available": true,
                 "west": -42,
                 "east": -36,
                 "north": -16,
@@ -5128,7 +5128,7 @@
             },
             "properties": {
                 "label": "SF 22",
-                "available": "true",
+                "available": true,
                 "west": -54,
                 "east": -48,
                 "north": -20,
@@ -5186,7 +5186,7 @@
             },
             "properties": {
                 "label": "SG 22",
-                "available": "true",
+                "available": true,
                 "west": -54,
                 "east": -48,
                 "north": -24,
@@ -5240,7 +5240,7 @@
             },
             "properties": {
                 "label": "SH 22",
-                "available": "true",
+                "available": true,
                 "west": -54,
                 "east": -48,
                 "north": -28,
@@ -5294,7 +5294,7 @@
             },
             "properties": {
                 "label": "SI 21",
-                "available": "true",
+                "available": true,
                 "west": -60,
                 "east": -54,
                 "north": -32,
@@ -5348,7 +5348,7 @@
             },
             "properties": {
                 "label": "SI 22",
-                "available": "true",
+                "available": true,
                 "west": -54,
                 "east": -48,
                 "north": -32,
@@ -5402,7 +5402,7 @@
             },
             "properties": {
                 "label": "SJ 20",
-                "available": "true",
+                "available": true,
                 "west": -66,
                 "east": -60,
                 "north": -36,
@@ -5456,7 +5456,7 @@
             },
             "properties": {
                 "label": "SJ 21",
-                "available": "true",
+                "available": true,
                 "west": -60,
                 "east": -54,
                 "north": -36,
@@ -5514,7 +5514,7 @@
             },
             "properties": {
                 "label": "SK 20",
-                "available": "true",
+                "available": true,
                 "west": -66,
                 "east": -60,
                 "north": -40,
@@ -5572,7 +5572,7 @@
             },
             "properties": {
                 "label": "SK 20",
-                "available": "true",
+                "available": true,
                 "west": -66,
                 "east": -60,
                 "north": -40,
@@ -5626,7 +5626,7 @@
             },
             "properties": {
                 "label": "NA 22",
-                "available": "true",
+                "available": true,
                 "west": -54,
                 "east": -48,
                 "north": 4,
@@ -5680,7 +5680,7 @@
             },
             "properties": {
                 "label": "NA 22",
-                "available": "true",
+                "available": true,
                 "west": -54,
                 "east": -48,
                 "north": 4,
@@ -5734,7 +5734,7 @@
             },
             "properties": {
                 "label": "NB 22",
-                "available": "true",
+                "available": true,
                 "west": -54,
                 "east": -48,
                 "north": 8,
@@ -5788,7 +5788,7 @@
             },
             "properties": {
                 "label": "NB 22",
-                "available": "true",
+                "available": true,
                 "west": -54,
                 "east": -48,
                 "north": 8,
@@ -5842,7 +5842,7 @@
             },
             "properties": {
                 "label": "NB 22",
-                "available": "true",
+                "available": true,
                 "west": -54,
                 "east": -48,
                 "north": 8,
@@ -5896,7 +5896,7 @@
             },
             "properties": {
                 "label": "SK 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": -40,
@@ -5950,7 +5950,7 @@
             },
             "properties": {
                 "label": "SJ 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": -36,
@@ -6008,7 +6008,7 @@
             },
             "properties": {
                 "label": "SL 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": -44,
@@ -6066,7 +6066,7 @@
             },
             "properties": {
                 "label": "SL 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": -44,
@@ -6120,7 +6120,7 @@
             },
             "properties": {
                 "label": "NC 20",
-                "available": "true",
+                "available": true,
                 "west": -66,
                 "east": -59,
                 "north": 12,
@@ -6174,7 +6174,7 @@
             },
             "properties": {
                 "label": "NC 20",
-                "available": "true",
+                "available": true,
                 "west": -66,
                 "east": -59,
                 "north": 12,
@@ -6228,7 +6228,7 @@
             },
             "properties": {
                 "label": "NE 18",
-                "available": "true",
+                "available": true,
                 "west": -78.5,
                 "east": -72,
                 "north": 20,
@@ -6282,7 +6282,7 @@
             },
             "properties": {
                 "label": "NE 18",
-                "available": "true",
+                "available": true,
                 "west": -78.5,
                 "east": -72,
                 "north": 20,
@@ -6336,7 +6336,7 @@
             },
             "properties": {
                 "label": "NE 18",
-                "available": "true",
+                "available": true,
                 "west": -78.5,
                 "east": -72,
                 "north": 20,
@@ -6390,7 +6390,7 @@
             },
             "properties": {
                 "label": "NE 18",
-                "available": "true",
+                "available": true,
                 "west": -78.5,
                 "east": -72,
                 "north": 20,
@@ -6444,7 +6444,7 @@
             },
             "properties": {
                 "label": "NE 18",
-                "available": "true",
+                "available": true,
                 "west": -78.5,
                 "east": -72,
                 "north": 20,
@@ -6498,7 +6498,7 @@
             },
             "properties": {
                 "label": "NG 14",
-                "available": "true",
+                "available": true,
                 "west": -102,
                 "east": -96,
                 "north": 28,
@@ -6552,7 +6552,7 @@
             },
             "properties": {
                 "label": "NG 14",
-                "available": "true",
+                "available": true,
                 "west": -102,
                 "east": -96,
                 "north": 28,
@@ -6606,7 +6606,7 @@
             },
             "properties": {
                 "label": "NH 13",
-                "available": "true",
+                "available": true,
                 "west": -108,
                 "east": -102,
                 "north": 32,
@@ -6660,7 +6660,7 @@
             },
             "properties": {
                 "label": "NH 13",
-                "available": "true",
+                "available": true,
                 "west": -108,
                 "east": -102,
                 "north": 32,
@@ -6722,7 +6722,7 @@
             },
             "properties": {
                 "label": "SF 23",
-                "available": "true",
+                "available": true,
                 "west": -48,
                 "east": -42,
                 "north": -20,
@@ -6776,7 +6776,7 @@
             },
             "properties": {
                 "label": "SF 24",
-                "available": "true",
+                "available": true,
                 "west": -42,
                 "east": -36,
                 "north": -20,
@@ -6834,7 +6834,7 @@
             },
             "properties": {
                 "label": "ND 15",
-                "available": "true",
+                "available": true,
                 "west": -96,
                 "east": -90,
                 "north": 16,
@@ -6892,7 +6892,7 @@
             },
             "properties": {
                 "label": "NC 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": 12.5,
@@ -6950,7 +6950,7 @@
             },
             "properties": {
                 "label": "NC 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": 12.5,
@@ -7008,7 +7008,7 @@
             },
             "properties": {
                 "label": "NC 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": 12.5,
@@ -7062,7 +7062,7 @@
             },
             "properties": {
                 "label": "NH 12",
-                "available": "true",
+                "available": true,
                 "west": -114,
                 "east": -108,
                 "north": 32.3333,
@@ -7116,7 +7116,7 @@
             },
             "properties": {
                 "label": "NH 12",
-                "available": "true",
+                "available": true,
                 "west": -114,
                 "east": -108,
                 "north": 32.3333,
@@ -7170,7 +7170,7 @@
             },
             "properties": {
                 "label": "NC 17",
-                "available": "true",
+                "available": true,
                 "west": -84,
                 "east": -78,
                 "north": 12.0833,
@@ -7224,7 +7224,7 @@
             },
             "properties": {
                 "label": "NC 17",
-                "available": "true",
+                "available": true,
                 "west": -84,
                 "east": -78,
                 "north": 12.0833,
@@ -7278,7 +7278,7 @@
             },
             "properties": {
                 "label": "NC 17",
-                "available": "true",
+                "available": true,
                 "west": -84,
                 "east": -78,
                 "north": 12.0833,
@@ -7332,7 +7332,7 @@
             },
             "properties": {
                 "label": "NC 17",
-                "available": "true",
+                "available": true,
                 "west": -84,
                 "east": -78,
                 "north": 12.0833,
@@ -7394,7 +7394,7 @@
             },
             "properties": {
                 "label": "NC 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -66,
                 "north": 12.6667,
@@ -7456,7 +7456,7 @@
             },
             "properties": {
                 "label": "NC 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -66,
                 "north": 12.6667,
@@ -7510,7 +7510,7 @@
             },
             "properties": {
                 "label": "ND 20",
-                "available": "true",
+                "available": true,
                 "west": -66,
                 "east": -59.4167,
                 "north": 16.0333,
@@ -7564,7 +7564,7 @@
             },
             "properties": {
                 "label": "ND 20",
-                "available": "true",
+                "available": true,
                 "west": -66,
                 "east": -59.4167,
                 "north": 16.0333,
@@ -7618,7 +7618,7 @@
             },
             "properties": {
                 "label": "ND 20",
-                "available": "true",
+                "available": true,
                 "west": -66,
                 "east": -59.4167,
                 "north": 16.0333,
@@ -7672,7 +7672,7 @@
             },
             "properties": {
                 "label": "ND 16",
-                "available": "true",
+                "available": true,
                 "west": -90,
                 "east": -83.1,
                 "north": 16,
@@ -7726,7 +7726,7 @@
             },
             "properties": {
                 "label": "ND 16",
-                "available": "true",
+                "available": true,
                 "west": -90,
                 "east": -83.1,
                 "north": 16,
@@ -7780,7 +7780,7 @@
             },
             "properties": {
                 "label": "ND 16",
-                "available": "true",
+                "available": true,
                 "west": -90,
                 "east": -83.1,
                 "north": 16,
@@ -7834,7 +7834,7 @@
             },
             "properties": {
                 "label": "ND 16",
-                "available": "true",
+                "available": true,
                 "west": -90,
                 "east": -83.1,
                 "north": 16,
@@ -7892,7 +7892,7 @@
             },
             "properties": {
                 "label": "NE 13",
-                "available": "true",
+                "available": true,
                 "west": -108,
                 "east": -102,
                 "north": 20,
@@ -7950,7 +7950,7 @@
             },
             "properties": {
                 "label": "NE 13",
-                "available": "true",
+                "available": true,
                 "west": -108,
                 "east": -102,
                 "north": 20,
@@ -8004,7 +8004,7 @@
             },
             "properties": {
                 "label": "NE 16",
-                "available": "true",
+                "available": true,
                 "west": -90,
                 "east": -84,
                 "north": 20,
@@ -8058,7 +8058,7 @@
             },
             "properties": {
                 "label": "NE 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -65.5,
                 "north": 20,
@@ -8112,7 +8112,7 @@
             },
             "properties": {
                 "label": "NE 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -65.5,
                 "north": 20,
@@ -8166,7 +8166,7 @@
             },
             "properties": {
                 "label": "NE 20",
-                "available": "true",
+                "available": true,
                 "west": -66,
                 "east": -60,
                 "north": 20,
@@ -8220,7 +8220,7 @@
             },
             "properties": {
                 "label": "NE 20",
-                "available": "true",
+                "available": true,
                 "west": -66,
                 "east": -60,
                 "north": 20,
@@ -8274,7 +8274,7 @@
             },
             "properties": {
                 "label": "NE 20",
-                "available": "true",
+                "available": true,
                 "west": -66,
                 "east": -60,
                 "north": 20,
@@ -8328,7 +8328,7 @@
             },
             "properties": {
                 "label": "NE 20",
-                "available": "true",
+                "available": true,
                 "west": -66,
                 "east": -60,
                 "north": 20,
@@ -8382,7 +8382,7 @@
             },
             "properties": {
                 "label": "NE 20",
-                "available": "true",
+                "available": true,
                 "west": -66,
                 "east": -60,
                 "north": 20,
@@ -8436,7 +8436,7 @@
             },
             "properties": {
                 "label": "NF 16",
-                "available": "true",
+                "available": true,
                 "west": -90.5,
                 "east": -84,
                 "north": 24,
@@ -8490,7 +8490,7 @@
             },
             "properties": {
                 "label": "NF 16",
-                "available": "true",
+                "available": true,
                 "west": -90.5,
                 "east": -84,
                 "north": 24,
@@ -8544,7 +8544,7 @@
             },
             "properties": {
                 "label": "NF 17",
-                "available": "true",
+                "available": true,
                 "west": -85,
                 "east": -78,
                 "north": 24,
@@ -8598,7 +8598,7 @@
             },
             "properties": {
                 "label": "NF 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": 24,
@@ -8652,7 +8652,7 @@
             },
             "properties": {
                 "label": "NF 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": 24,
@@ -8706,7 +8706,7 @@
             },
             "properties": {
                 "label": "NF 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": 24,
@@ -8760,7 +8760,7 @@
             },
             "properties": {
                 "label": "NF 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": 24,
@@ -8814,7 +8814,7 @@
             },
             "properties": {
                 "label": "NH 11",
-                "available": "true",
+                "available": true,
                 "west": -118.417,
                 "east": -112,
                 "north": 33,
@@ -8868,7 +8868,7 @@
             },
             "properties": {
                 "label": "NG 12",
-                "available": "true",
+                "available": true,
                 "west": -115.25,
                 "east": -108,
                 "north": 28,
@@ -8922,7 +8922,7 @@
             },
             "properties": {
                 "label": "NG 12",
-                "available": "true",
+                "available": true,
                 "west": -115.25,
                 "east": -108,
                 "north": 28,
@@ -9018,7 +9018,7 @@
             },
             "properties": {
                 "label": "SB 25",
-                "available": "true",
+                "available": true,
                 "west": -36,
                 "east": -30,
                 "north": -4,
@@ -9114,7 +9114,7 @@
             },
             "properties": {
                 "label": "SB 25",
-                "available": "true",
+                "available": true,
                 "west": -36,
                 "east": -30,
                 "north": -4,
@@ -9168,7 +9168,7 @@
             },
             "properties": {
                 "label": "SC 25",
-                "available": "true",
+                "available": true,
                 "west": -36,
                 "east": -30,
                 "north": -8,
@@ -9226,7 +9226,7 @@
             },
             "properties": {
                 "label": "SD 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": -12,
@@ -9284,7 +9284,7 @@
             },
             "properties": {
                 "label": "SD 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": -12,
@@ -9342,7 +9342,7 @@
             },
             "properties": {
                 "label": "SD 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": -12,
@@ -9400,7 +9400,7 @@
             },
             "properties": {
                 "label": "SD 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": -12,
@@ -9458,7 +9458,7 @@
             },
             "properties": {
                 "label": "SD 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": -12,
@@ -9516,7 +9516,7 @@
             },
             "properties": {
                 "label": "SD 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": -12,
@@ -9574,7 +9574,7 @@
             },
             "properties": {
                 "label": "SD 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": -12,
@@ -9636,7 +9636,7 @@
             },
             "properties": {
                 "label": "SL 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -65,
                 "north": -44,
@@ -9698,7 +9698,7 @@
             },
             "properties": {
                 "label": "SL 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -65,
                 "north": -44,
@@ -9760,7 +9760,7 @@
             },
             "properties": {
                 "label": "SL 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -65,
                 "north": -44,
@@ -9822,7 +9822,7 @@
             },
             "properties": {
                 "label": "SL 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -65,
                 "north": -44,
@@ -9884,7 +9884,7 @@
             },
             "properties": {
                 "label": "SL 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -65,
                 "north": -44,
@@ -9996,7 +9996,7 @@
             },
             "properties": {
                 "label": "SN 18,19,20",
-                "available": "true",
+                "available": true,
                 "west": -75.1167,
                 "east": -63.5,
                 "north": -52,
@@ -10108,7 +10108,7 @@
             },
             "properties": {
                 "label": "SN 18,19,20",
-                "available": "true",
+                "available": true,
                 "west": -75.1167,
                 "east": -63.5,
                 "north": -52,
@@ -10220,7 +10220,7 @@
             },
             "properties": {
                 "label": "SN 18,19,20",
-                "available": "true",
+                "available": true,
                 "west": -75.1167,
                 "east": -63.5,
                 "north": -52,
@@ -10392,7 +10392,7 @@
             },
             "properties": {
                 "label": "SI 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": 72,
                 "north": -32,
@@ -10472,7 +10472,7 @@
             },
             "properties": {
                 "label": "NA 17",
-                "available": "true",
+                "available": true,
                 "west": -84,
                 "east": -78,
                 "north": 4,
@@ -10552,7 +10552,7 @@
             },
             "properties": {
                 "label": "NA 17",
-                "available": "true",
+                "available": true,
                 "west": -84,
                 "east": -78,
                 "north": 4,
@@ -10632,7 +10632,7 @@
             },
             "properties": {
                 "label": "NA 17",
-                "available": "true",
+                "available": true,
                 "west": -84,
                 "east": -78,
                 "north": 4,
@@ -10712,7 +10712,7 @@
             },
             "properties": {
                 "label": "NA 17",
-                "available": "true",
+                "available": true,
                 "west": -84,
                 "east": -78,
                 "north": 4,
@@ -10792,7 +10792,7 @@
             },
             "properties": {
                 "label": "NC 16",
-                "available": "true",
+                "available": true,
                 "west": -90,
                 "east": -84,
                 "north": 12,
@@ -10872,7 +10872,7 @@
             },
             "properties": {
                 "label": "NC 16",
-                "available": "true",
+                "available": true,
                 "west": -90,
                 "east": -84,
                 "north": 12,
@@ -10926,7 +10926,7 @@
             },
             "properties": {
                 "label": "SJ 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -66,
                 "north": -36,
@@ -10980,7 +10980,7 @@
             },
             "properties": {
                 "label": "SJ 18,19",
-                "available": "true",
+                "available": true,
                 "west": -74,
                 "east": -66,
                 "north": -36,
@@ -11034,7 +11034,7 @@
             },
             "properties": {
                 "label": "SK 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -66,
                 "north": -40,
@@ -11088,7 +11088,7 @@
             },
             "properties": {
                 "label": "SK 18,19",
-                "available": "true",
+                "available": true,
                 "west": -75,
                 "east": -66,
                 "north": -40,
@@ -11142,7 +11142,7 @@
             },
             "properties": {
                 "label": "SM 18",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -72,
                 "north": -48,
@@ -11196,7 +11196,7 @@
             },
             "properties": {
                 "label": "SM 18,19",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -65.8833,
                 "north": -48,
@@ -11250,7 +11250,7 @@
             },
             "properties": {
                 "label": "SM 18,19",
-                "available": "true",
+                "available": true,
                 "west": -78,
                 "east": -65.8833,
                 "north": -48,
@@ -11304,7 +11304,7 @@
             },
             "properties": {
                 "label": "SM 19",
-                "available": "true",
+                "available": true,
                 "west": -72,
                 "east": -65.8833,
                 "north": -48,
@@ -11358,7 +11358,7 @@
             },
             "properties": {
                 "label": "NE 15",
-                "available": "true",
+                "available": true,
                 "west": -96,
                 "east": -90,
                 "north": 20,
@@ -11412,7 +11412,7 @@
             },
             "properties": {
                 "label": "NE 15",
-                "available": "true",
+                "available": true,
                 "west": -96,
                 "east": -90,
                 "north": 20,
@@ -11466,7 +11466,7 @@
             },
             "properties": {
                 "label": "NE 15",
-                "available": "true",
+                "available": true,
                 "west": -96,
                 "east": -90,
                 "north": 20,
@@ -11520,7 +11520,7 @@
             },
             "properties": {
                 "label": "NF 14",
-                "available": "true",
+                "available": true,
                 "west": -102,
                 "east": -96,
                 "north": 24,
@@ -11574,7 +11574,7 @@
             },
             "properties": {
                 "label": "NF 14",
-                "available": "true",
+                "available": true,
                 "west": -102,
                 "east": -96,
                 "north": 24,
@@ -11628,7 +11628,7 @@
             },
             "properties": {
                 "label": "NE 14",
-                "available": "true",
+                "available": true,
                 "west": -102,
                 "east": -96,
                 "north": 20,
@@ -11682,7 +11682,7 @@
             },
             "properties": {
                 "label": "NE 14",
-                "available": "true",
+                "available": true,
                 "west": -102,
                 "east": -96,
                 "north": 20,
@@ -11736,7 +11736,7 @@
             },
             "properties": {
                 "label": "NE 14",
-                "available": "true",
+                "available": true,
                 "west": -102,
                 "east": -96,
                 "north": 20,
@@ -11790,7 +11790,7 @@
             },
             "properties": {
                 "label": "NE 14",
-                "available": "true",
+                "available": true,
                 "west": -102,
                 "east": -96,
                 "north": 20,
@@ -11902,7 +11902,7 @@
             },
             "properties": {
                 "label": "SN 19",
-                "available": "true",
+                "available": true,
                 "west": -75.1167,
                 "east": -63.5,
                 "north": -52,
@@ -12014,7 +12014,7 @@
             },
             "properties": {
                 "label": "SN 19",
-                "available": "true",
+                "available": true,
                 "west": -75.1167,
                 "east": -63.5,
                 "north": -52,
